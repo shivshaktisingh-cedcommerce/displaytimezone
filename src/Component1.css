@@ -1,0 +1,27 @@
+#component1{
+    width:98%;
+    margin:auto;
+    min-height:60vw;
+    padding:2vw;
+    background-color:#256D85;
+}
+select{
+    min-height:3vw;
+    border-radius:5px;
+    font-size:1.8vw;
+}
+button{
+    width:10%;
+    min-height:3vw;
+    margin-left:2%;
+    font-size:1.5vw;
+    border-radius:5px;
+    border:2px solid white;
+}
+
+button:hover{
+    background-color:#8FE3CF;
+}
+h2{
+    margin-bottom:4%;
+}
