@@ -1,10 +1,10 @@
-import Component1 from './Component1.js';
+import Componentnew from './Componentnew.js';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <Component1/>
+      <Componentnew/>
     </div>
   );
 }
